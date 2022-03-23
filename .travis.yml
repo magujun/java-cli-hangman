@@ -1,0 +1,10 @@
+os: linux
+
+language: java
+
+before_install:
+  - mkdir bin/
+
+script:
+  - javac -d bin src/*
+  # - java Hangman
