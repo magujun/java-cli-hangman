@@ -7,4 +7,4 @@ before_install:
 
 script:
   - javac -d bin -classpath bin src/Hangman.java
-  - java src/Hangman.java
+  # - java src/Hangman.java
