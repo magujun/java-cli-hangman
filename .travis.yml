@@ -6,5 +6,5 @@ before_install:
   - mkdir bin/
 
 script:
-  - javac -d bin -classpath bin src/*
-  # - java Hangman
+  - javac -d bin -classpath bin src/Hangman.java
+  - java src/Hangman.java
