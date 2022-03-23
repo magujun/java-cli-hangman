@@ -3,8 +3,8 @@
 # java-cli-hangman
 
 <h3 align="center">
-  <img width="250px" src="![hangmans-noose](https://user-images.githubusercontent.com/75567460/159807844-73f104a8-e7c1-45af-a3fd-77e07ae18c62.jpg)">
-    <img width="250px" src="![Java™](https://user-images.githubusercontent.com/75567460/159807655-f2f39253-fc0c-4cb5-ad42-1da53caea14c.png)">
+  <img width="250px" src="![Hangmans-noose](https://user-images.githubusercontent.com/75567460/159808230-642b70b0-6e74-4f1c-9c84-ca5c0d7f0666.png)">
+  <img width="250px" src="![Java](https://user-images.githubusercontent.com/75567460/159807655-f2f39253-fc0c-4cb5-ad42-1da53caea14c.png)">
     <br><br>
     <p align="center">
       <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
