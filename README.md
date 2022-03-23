@@ -3,8 +3,8 @@
 # java-cli-hangman
 
 <h3 align="center">
-  <img width="250px" src="![Hangmans-noose](https://user-images.githubusercontent.com/75567460/159808230-642b70b0-6e74-4f1c-9c84-ca5c0d7f0666.png)">
-  <img width="250px" src="![Java](https://user-images.githubusercontent.com/75567460/159807655-f2f39253-fc0c-4cb5-ad42-1da53caea14c.png)">
+  <img width="250px" src="![hangmans-noose](https://user-images.githubusercontent.com/75567460/159809143-6e45dff1-d254-4261-b16c-7c7dad1755e9.png)">
+  <img width="250px" src="![java-logo](https://user-images.githubusercontent.com/75567460/159809168-96909c5e-d509-4eda-8a4a-a4c597343cee.png)">
     <br><br>
     <p align="center">
       <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,12 +42,12 @@ These instructions will take you to a copy of the project running on your local 
  **COMPILE**
  ```   
     - mkdir bin/
-    - javac -d bin src/*
+    - javac -d bin src/Hangman.java
 ```
 
 **RUN**
 ```
-    - java Hangman
+    - java src/Hangman.java
 ```
 
 ## 🎓 Who taught?
